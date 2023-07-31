@@ -11,7 +11,7 @@
 |주차|날짜|내용|발표자|발표자료|
 |:------:|:---:|---|:---:|:---:|
 |0|23.07.14|OT||🐘|
-|1|23.07.24|얄코 강좌를 통한 기초 SQL 언어 맛보기, 주교재 1장||🐘[PDF](https://github.com/dahlia52/BOAZ-SQL_study/blob/main/Week2_%EC%9D%B4%20%EC%B1%85%EC%97%90%EC%84%9C%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%8F%84%EA%B5%AC%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0.pdf) [Notion](https://sixth-penalty-5c2.notion.site/2-faa4c4f64edb41bab5961e72f2cc04ae?pvs=4)|
+|1|23.07.24|얄코 강좌를 통한 기초 SQL 언어 맛보기, 주교재 1장||[PDF](https://github.com/dahlia52/BOAZ-SQL_study/blob/main/Week2_%EC%9D%B4%20%EC%B1%85%EC%97%90%EC%84%9C%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%8F%84%EA%B5%AC%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0.pdf) [Notion](https://sixth-penalty-5c2.notion.site/2-faa4c4f64edb41bab5961e72f2cc04ae?pvs=4)|
 |2|23.07.31|2장 – 이 책에서 다루는 도구와 데이터|정지혜|🐘|
 |3|23.07.31|3장 – 데이터 가공을 위한 SQL|한은빈|🐘|
 |4|23.08.07|4장 전반부 - 시계열 기반으로 데이터 집계하기|형지현|🐘|
